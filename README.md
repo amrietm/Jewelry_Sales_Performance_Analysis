@@ -2,7 +2,7 @@
 
 This analysis uses eCommerce purchase history from a medium-sized online jewelry store, covering December 2018 to December 2021. Sourced from [Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-jewelry-store) and originally provided by the [Open CDP Project](https://rees46.com/en/open-cdp), it examines revenue trends, order volume, and product demand, highlighting top-performing jewelry categories, metals, gemstones, and colors to identify sales patterns and support data-driven business decisions.
 
-<img width="1212" height="687" alt="image" src="https://github.com/user-attachments/assets/3419c44f-281a-4690-874e-d213c74db666" />
+<img width="1221" height="696" alt="image" src="https://github.com/user-attachments/assets/9df008b4-49cd-46fb-8a55-5788797994f9" />
 
 
 
@@ -118,6 +118,7 @@ In 2021, sales started slowly after the holiday season, similar to 2020, but beg
 ## 2019 - 2021 TRENDS
 
 <img width="797" height="455" alt="image" src="https://github.com/user-attachments/assets/f1faa7be-69a6-4dc2-b5f2-fae7497d51a2" />
+
 
 Overall, the store showed an upward trend in both revenue and order volume from 2019 to 2021, indicating business growth and increasing sales activity over the three-year period. Despite seasonal fluctuations, the store generally achieved stronger performance year over year.
 
