@@ -100,6 +100,7 @@ Red, white, and yellow are the top three jewelry colors in the store's sales. Th
 
 <img width="792" height="445" alt="image" src="https://github.com/user-attachments/assets/a5a47921-f7b3-4000-ae87-3c47d3813e2a" />
 
+In 2019, both total revenue and order quantity began increasing in July, peaked in August, and declined in September. Sales then steadily recovered from October through December. The July increase may be linked to Independence Day promotions in the US, while the August peak could reflect early shopping activity ahead of Labor Day. The steady growth toward year-end may be driven by holiday shopping events such as Black Friday and Christmas. These seasonal events could help explain the sales pattern, although promotional and campaign data would be needed to confirm their direct impact.
 
 ### 2020
 
