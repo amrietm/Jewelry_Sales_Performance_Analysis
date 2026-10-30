@@ -39,3 +39,9 @@ Customer Gender Distribution (2018–2021)
 
 Female customers accounted for the largest identified buyer segment at 54.22%, while male customers represented only 0.14%. Notably, 45% of buyers had no recorded gender information. Rather than assuming this group identifies as another gender, it is more accurate to view it as an opportunity to recognize gaps in customer data collection and adopt a more inclusive approach to understanding the store's customer base.
 
+
+## What's driving the revenue?
+
+### Jewelry
+
+Total Price By Category <img width="457" height="365" alt="image" src="https://github.com/user-attachments/assets/56d2b009-b6b4-4a9f-a33b-86fcd3ca9fe0" />
