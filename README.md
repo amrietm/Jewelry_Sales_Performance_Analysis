@@ -31,3 +31,6 @@ Overall Goal: Transform raw sales data into meaningful insights that help identi
 # Key Analysis and Visualization
 
 ## Who's Buying?
+
+<img width="522" height="211" alt="image" src="https://github.com/user-attachments/assets/d8087086-507d-4688-9743-277db2f9882e" />
+
