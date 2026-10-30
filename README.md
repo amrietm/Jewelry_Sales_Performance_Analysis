@@ -25,3 +25,8 @@ The analysis followed a two-step process to prepare, analyze, and visualize the 
 - Used slicers and filters to explore revenue by jewelry category, metal, gemstone, and color.
 
 Overall Goal: Transform raw sales data into meaningful insights that help identify changing product trends and potential opportunities for sales growth.
+
+
+# Key Analysis and Visualization
+
+## Who's Buying?
