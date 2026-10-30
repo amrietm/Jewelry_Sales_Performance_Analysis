@@ -42,6 +42,14 @@ Female customers accounted for the largest identified buyer segment at 54.22%, w
 
 ## What's driving the revenue?
 
-### Jewelry
+### Jewelry Type
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/56d2b009-b6b4-4a9f-a33b-86fcd3ca9fe0"" width="49%" />
+  <img src="https://github.com/user-attachments/assets/72465978-abac-4b2d-9631-9cd9bd60ad31)" width="49%" />
+</p>
+
+<img width="460" height="362" alt="image" src="https://github.com/user-attachments/assets/72465978-abac-4b2d-9631-9cd9bd60ad31" />
+
 
 Total Price By Category <img width="457" height="365" alt="image" src="https://github.com/user-attachments/assets/56d2b009-b6b4-4a9f-a33b-86fcd3ca9fe0" />
