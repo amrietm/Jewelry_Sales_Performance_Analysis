@@ -9,3 +9,19 @@ This analysis uses eCommerce purchase history from a medium-sized online jewelry
 The business needs to identify its top-performing jewelry products, monitor and understand changing jewelry trends, identify shifts in customer preferences, and discover opportunities to improve sales across other product categories.
 
 
+# Methodology
+The analysis followed a two-step process to prepare, analyze, and visualize the jewelry store's eCommerce sales data.
+
+1. Data Cleaning – Microsoft Excel
+- Checked and removed duplicate records and blank rows.
+- Standardized data formats and corrected inconsistent values.
+- Reviewed missing data and replaced where appropriate.
+- Organized columns to ensure data accuracy and consistency.
+
+2. Data Visualization – Microsoft Power BI
+- Imported the cleaned dataset into Power BI.
+- Created measures for key performance indicators, including total revenue, orders, and units sold.
+- Developed interactive charts to analyze sales trends and product performance.
+- Used slicers and filters to explore revenue by jewelry category, metal, gemstone, and color.
+
+Overall Goal: Transform raw sales data into meaningful insights that help identify changing product trends and potential opportunities for sales growth.
