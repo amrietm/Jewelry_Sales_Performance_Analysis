@@ -72,6 +72,10 @@ Its strong performance suggests that gold remains a key product preference among
 
 <img width="781" height="477" alt="image" src="https://github.com/user-attachments/assets/f2b26307-a00c-4c87-89a6-8d3376eafc1d" />
 
+#### Total Order Quantity based on Main Gem used
+
+<img width="782" height="482" alt="image" src="https://github.com/user-attachments/assets/9f838c75-2b89-4ddd-98af-0891214edfc6" />
+
 Diamonds lead the store's gemstone sales, followed by topaz, fianit (cubic zirconia), pearl, garnet, amethyst, sapphire, and emerald. The remaining sales come from various other and unspecified gemstones.
 
 This highlights the strong demand for a few key gemstones while showing the diversity of the store's product offerings. The business can prioritize popular gems in its marketing while promoting less popular options through themed collections and targeted campaigns. Improving records for unknown gemstones could also provide clearer insights into product performance.
@@ -79,13 +83,12 @@ This highlights the strong demand for a few key gemstones while showing the dive
 
 ### MAIN COLOR
 
-#### Total Price based on Main Gem used
+#### Total Price based on Main Color used
 
+<img width="792" height="532" alt="image" src="https://github.com/user-attachments/assets/a9e21796-d496-42d4-9c14-f99671345126" />
 
+#### Total Order Qwuantity based on Main Color used
 
-#### Total Order Quantity based on Main Gem used
-
-<img width="782" height="482" alt="image" src="https://github.com/user-attachments/assets/9f838c75-2b89-4ddd-98af-0891214edfc6" />
-
+<img width="782" height="527" alt="image" src="https://github.com/user-attachments/assets/a5c356ae-d527-4d98-8206-7984308045f0" />
 
 
