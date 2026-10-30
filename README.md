@@ -1,6 +1,6 @@
 # Jewelry Sales Performance Analysis
 
-This analysis uses eCommerce purchase history from a medium-sized online jewelry store, covering December 2018 to December 2021. Sourced from Kaggle and originally provided by the Open CDP Project, it examines revenue trends, order volume, and product demand, highlighting top-performing jewelry categories, metals, gemstones, and colors to identify sales patterns and support data-driven business decisions.
+This analysis uses eCommerce purchase history from a medium-sized online jewelry store, covering December 2018 to December 2021. Sourced from [Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-jewelry-store) and originally provided by the Open CDP Project, it examines revenue trends, order volume, and product demand, highlighting top-performing jewelry categories, metals, gemstones, and colors to identify sales patterns and support data-driven business decisions.
 
 <img width="1212" height="687" alt="image" src="https://github.com/user-attachments/assets/3419c44f-281a-4690-874e-d213c74db666" />
 
@@ -71,6 +71,10 @@ Its strong performance suggests that gold remains a key product preference among
 #### Total Price based Main Gem used
 
 <img width="781" height="477" alt="image" src="https://github.com/user-attachments/assets/f2b26307-a00c-4c87-89a6-8d3376eafc1d" />
+
+Diamonds lead the store's gemstone sales, followed by topaz, fianit (cubic zirconia), pearl, garnet, amethyst, sapphire, and emerald. The remaining sales come from various other and unspecified gemstones.
+
+This highlights the strong demand for a few key gemstones while showing the diversity of the store's product offerings. The business can prioritize popular gems in its marketing while promoting less popular options through themed collections and targeted campaigns. Improving records for unknown gemstones could also provide clearer insights into product performance.
 
 
 
