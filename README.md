@@ -91,4 +91,23 @@ This highlights the strong demand for a few key gemstones while showing the dive
 
 <img width="782" height="527" alt="image" src="https://github.com/user-attachments/assets/a5c356ae-d527-4d98-8206-7984308045f0" />
 
+Red, white, and yellow are the top three jewelry colors in the store's sales. This suggests that these colors appeal strongly to buyers and contribute significantly to product demand. The store can prioritize these colors in its product selection while exploring other shades to diversify its offerings and attract customers with different style preferences.
+
+
+## YEARLY TRENDS
+
+### 2019
+
+<img width="792" height="445" alt="image" src="https://github.com/user-attachments/assets/a5a47921-f7b3-4000-ae87-3c47d3813e2a" />
+
+
+### 2020
+
+<img width="797" height="447" alt="image" src="https://github.com/user-attachments/assets/12453145-4be8-4ca2-8f96-80c298ff3cd8" />
+
+### 2021
+
+<img width="797" height="455" alt="image" src="https://github.com/user-attachments/assets/e4694c5c-38b4-438a-851d-d641577143fa" />
+
+
 
