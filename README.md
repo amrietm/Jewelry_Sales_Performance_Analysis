@@ -32,7 +32,8 @@ Overall Goal: Transform raw sales data into meaningful insights that help identi
 
 ## Who's Buying?
 
-<img width="522" height="211" alt="image" src="https://github.com/user-attachments/assets/d8087086-507d-4688-9743-277db2f9882e" />
+<img width="1430" height="657" alt="image" src="https://github.com/user-attachments/assets/56b10c41-756d-4486-b1a3-91218f0c8f69" />
+
 
 Customer Gender Distribution (2018–2021)
 
