@@ -106,6 +106,8 @@ In 2019, both total revenue and order quantity began increasing in July, peaked 
 
 <img width="797" height="447" alt="image" src="https://github.com/user-attachments/assets/12453145-4be8-4ca2-8f96-80c298ff3cd8" />
 
+At the start of 2020, sales slowed slightly, but the overall seasonal pattern remained similar to 2019, with revenue and order quantity increasing around July. November revenue was also comparable to the previous year, reaching approximately $700K–$800K. However, sales rebounded significantly in December, generating around $2 million in revenue, suggesting strong year-end holiday demand.
+
 ### 2021
 
 <img width="797" height="455" alt="image" src="https://github.com/user-attachments/assets/e4694c5c-38b4-438a-851d-d641577143fa" />
