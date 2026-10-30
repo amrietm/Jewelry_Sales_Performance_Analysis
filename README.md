@@ -42,7 +42,7 @@ Female customers accounted for the largest identified buyer segment at 54.22%, w
 
 ## What's driving the revenue?
 
-### Jewelry Type
+### JEWELRY TYPE
 
 #### Total Price By Category
 
@@ -51,3 +51,20 @@ Female customers accounted for the largest identified buyer segment at 54.22%, w
 #### Total Order Quantity By Category
 
 <img width="460" height="362" alt="image" src="https://github.com/user-attachments/assets/72465978-abac-4b2d-9631-9cd9bd60ad31" />
+
+Jewelry type is one of the key factors influencing the store's revenue. Based on total sales value, the top five contributors are earrings, rings, unspecified jewelry, bracelets, and pendants. In terms of quantity sold, the ranking shifts slightly to earrings, rings, pendants, unspecified jewelry, and bracelets.
+
+This suggests that earrings and rings are the store's strongest product categories, performing well in both revenue and sales volume. Pendants, meanwhile, sell in higher quantities than bracelets but contribute less to revenue, which may indicate a lower average selling price. This presents an opportunity to explore pricing strategies, product bundles, and promotional campaigns to increase revenue across other jewelry categories.
+
+
+### MAIN METAL
+
+<img width="956" height="452" alt="image" src="https://github.com/user-attachments/assets/98387f1e-fd0f-4fe7-a3fe-e0741476954d" />
+
+Gold is the leading metal in the store's sales performance, ranking highest in both quantity sold and total revenue. This indicates that gold jewelry is a major driver of customer demand and overall sales value.
+
+Its strong performance suggests that gold remains a key product preference among buyers, making it an important category to prioritize. The store can build on this demand while exploring opportunities to promote other metals and diversify product sales.
+
+
+### MAIN GEM
+
