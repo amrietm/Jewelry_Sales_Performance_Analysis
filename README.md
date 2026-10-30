@@ -34,3 +34,7 @@ Overall Goal: Transform raw sales data into meaningful insights that help identi
 
 <img width="522" height="211" alt="image" src="https://github.com/user-attachments/assets/d8087086-507d-4688-9743-277db2f9882e" />
 
+Customer Gender Distribution (2018–2021)
+
+Female customers accounted for the largest identified buyer segment at 54.22%, while male customers represented only 0.14%. Notably, 45% of buyers had no recorded gender information. Rather than assuming this group identifies as another gender, it is more accurate to view it as an opportunity to recognize gaps in customer data collection and adopt a more inclusive approach to understanding the store's customer base.
+
