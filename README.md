@@ -112,5 +112,27 @@ At the start of 2020, sales slowed slightly, but the overall seasonal pattern re
 
 <img width="797" height="455" alt="image" src="https://github.com/user-attachments/assets/e4694c5c-38b4-438a-851d-d641577143fa" />
 
+In 2021, sales started slowly after the holiday season, similar to 2020, but began increasing around mid-February, potentially reflecting higher demand during Valentine's Day. The store appears to have maintained a similar seasonal sales pattern since 2019, while achieving stronger results over time. November revenue reached nearly $4 million, almost quadruple the November 2019 figure. However, unlike previous years, sales declined in December 2021. This could indicate that holiday demand shifted earlier toward November, possibly driven by major shopping events such as Black Friday.
 
+
+## 2019 - 2021 TRENDS
+
+<img width="797" height="455" alt="image" src="https://github.com/user-attachments/assets/f1faa7be-69a6-4dc2-b5f2-fae7497d51a2" />
+
+Overall, the store showed an upward trend in both revenue and order volume from 2019 to 2021, indicating business growth and increasing sales activity over the three-year period. Despite seasonal fluctuations, the store generally achieved stronger performance year over year.
+
+
+# RECOMMENDATION
+
+1. Maximize Seasonal Promotions: Plan campaigns around Valentine's Day, Black Friday, Christmas, and other key shopping periods. Start promotions early to capture demand.
+
+2. Prioritize Best-Selling Products: Maintain sufficient inventory of popular jewelry categories, gemstones, and colors to meet customer demand.
+
+3. Boost Underperforming Categories: Use bundles, discounts, and targeted campaigns to encourage sales of less popular products.
+
+4. Review Sales Trends: Monitor monthly performance to identify seasonal patterns and adjust marketing and inventory strategies accordingly.
+
+5. Improve Customer Data: Address missing customer information to support better segmentation and more effective marketing.
+
+Overall: Build on the store's growing revenue and order volume through seasonal marketing, strategic inventory planning, and targeted promotions.
 
