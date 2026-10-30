@@ -44,9 +44,10 @@ Female customers accounted for the largest identified buyer segment at 54.22%, w
 
 ### Jewelry Type
 
+#### Total Price By Category
 
-Total Price By Category
 <img width="457" height="365" alt="image" src="https://github.com/user-attachments/assets/56d2b009-b6b4-4a9f-a33b-86fcd3ca9fe0" />
 
-Total Order Quantity By Category
+#### Total Order Quantity By Category
+
 <img width="460" height="362" alt="image" src="https://github.com/user-attachments/assets/72465978-abac-4b2d-9631-9cd9bd60ad31" />
