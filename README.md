@@ -1,6 +1,6 @@
 # Jewelry Sales Performance Analysis
 
-This analysis uses eCommerce purchase history from a medium-sized online jewelry store, covering December 2018 to December 2021. Sourced from [Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-jewelry-store) and originally provided by the Open CDP Project, it examines revenue trends, order volume, and product demand, highlighting top-performing jewelry categories, metals, gemstones, and colors to identify sales patterns and support data-driven business decisions.
+This analysis uses eCommerce purchase history from a medium-sized online jewelry store, covering December 2018 to December 2021. Sourced from [Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-jewelry-store) and originally provided by the [Open CDP Project](https://rees46.com/en/open-cdp), it examines revenue trends, order volume, and product demand, highlighting top-performing jewelry categories, metals, gemstones, and colors to identify sales patterns and support data-driven business decisions.
 
 <img width="1212" height="687" alt="image" src="https://github.com/user-attachments/assets/3419c44f-281a-4690-874e-d213c74db666" />
 
