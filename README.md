@@ -1,4 +1,11 @@
-# Jewelry_Sales_Performance_Analysis
-This analysis explores jewelry sales performance by examining revenue trends, order volume, and product demand. It highlights top-performing jewelry categories, metals, gemstones, and colors to uncover sales patterns and provide insights that support better business decisions..
+# Jewelry Sales Performance Analysis
 
-<img width="1216" height="697" alt="image" src="https://github.com/user-attachments/assets/0037b415-beb3-4a3d-8680-a8ac11866041" />
+This analysis uses eCommerce purchase history from a medium-sized online jewelry store, covering December 2018 to December 2021. Sourced from Kaggle and originally provided by the Open CDP Project, it examines revenue trends, order volume, and product demand, highlighting top-performing jewelry categories, metals, gemstones, and colors to identify sales patterns and support data-driven business decisions.
+
+<img width="1211" height="686" alt="image" src="https://github.com/user-attachments/assets/33c33174-4874-4146-8474-cc93b494c4c2" />
+
+
+# Problem Statement
+The business needs to identify its top-performing jewelry products, monitor and understand changing jewelry trends, identify shifts in customer preferences, and discover opportunities to improve sales across other product categories.
+
+
