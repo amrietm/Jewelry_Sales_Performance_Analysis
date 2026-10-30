@@ -68,3 +68,15 @@ Its strong performance suggests that gold remains a key product preference among
 
 ### MAIN GEM
 
+#### Total Price based Main Gem used
+
+<img width="781" height="477" alt="image" src="https://github.com/user-attachments/assets/f2b26307-a00c-4c87-89a6-8d3376eafc1d" />
+
+
+
+#### Total Order Quantity based on Main Gem used
+
+<img width="782" height="482" alt="image" src="https://github.com/user-attachments/assets/9f838c75-2b89-4ddd-98af-0891214edfc6" />
+
+
+
